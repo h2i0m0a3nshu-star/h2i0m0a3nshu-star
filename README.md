@@ -1,4 +1,6 @@
 ### Hi there 👋
+## I'm currently working on an indie game which is still in it's design phase
+## I'm currently pursuing my Bachelors in Computer Science.
 
 <!--
 **h2i0m0a3nshu-star/h2i0m0a3nshu-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm currently working on an indie game that is yet to be named and is still in it's early phase.
-## I'm currently pursuing my Bachelors in Computer Science.
